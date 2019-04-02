@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PCSTA.Sets", "PCSTA.Sets\PC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCSTA.Sets.Tests", "PCSTA.Sets.Tests\PCSTA.Sets.Tests.csproj", "{A6AAD836-0F41-4393-A893-9F533FBA9094}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCSTA.MusicXml.Tests", "PCSTA.MusicXml.Tests\PCSTA.MusicXml.Tests.csproj", "{C7C82897-685A-4CED-BC1A-4FDC782CD0D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCSTA.MusicXml", "PCSTA.MusicXml\PCSTA.MusicXml.csproj", "{5D3E53EF-F9FB-4EE6-8931-87ED8C4D4E95}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{A6AAD836-0F41-4393-A893-9F533FBA9094}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6AAD836-0F41-4393-A893-9F533FBA9094}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6AAD836-0F41-4393-A893-9F533FBA9094}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7C82897-685A-4CED-BC1A-4FDC782CD0D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7C82897-685A-4CED-BC1A-4FDC782CD0D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7C82897-685A-4CED-BC1A-4FDC782CD0D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7C82897-685A-4CED-BC1A-4FDC782CD0D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D3E53EF-F9FB-4EE6-8931-87ED8C4D4E95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D3E53EF-F9FB-4EE6-8931-87ED8C4D4E95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D3E53EF-F9FB-4EE6-8931-87ED8C4D4E95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D3E53EF-F9FB-4EE6-8931-87ED8C4D4E95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
